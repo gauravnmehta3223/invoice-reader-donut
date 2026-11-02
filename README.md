@@ -35,8 +35,8 @@ This project fine-tunes [Donut](https://huggingface.co/naver-clova-ix/donut-base
 You need Python 3.9+ and an NVIDIA GPU with CUDA.
 
 ```bash
-git clone https://github.com/Gmehta604/Invoice_Reader_Using_Donut.git
-cd Invoice_Reader_Using_Donut
+git clone https://github.com/gauravnmehta3223/invoice-reader-donut.git
+cd invoice-reader-donut
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 ```
